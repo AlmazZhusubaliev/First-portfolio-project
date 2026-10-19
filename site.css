@@ -1,0 +1,116 @@
+body {
+    font-family: 'Inter';
+}
+
+.top {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-end;
+  gap: 20px; 
+}
+
+.big {
+    margin-right: 600px;
+    font-size: 30px;
+}
+
+.nav-link {
+  text-decoration: none; 
+  color: #333;
+  font-weight: 500;
+  padding: 10px 15px;
+
+}
+
+.nav-link:hover {
+  color: #04AA6D; 
+}
+
+.intro {
+    max-width: 768px;
+}
+.hd {
+    color: gray;
+}
+
+.bio {
+    background-color: rgb(192, 192, 192);
+}
+
+.portf {
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    max-width: 584px;
+}
+.design {
+    text-decoration: underline;
+}
+
+.skull {
+    display: block;
+    margin: 0 auto;
+}
+
+.navik {
+    text-align: center;
+}
+
+.icons {
+    display: flex;
+  list-style-type: none;
+  justify-content: center;
+  gap: 120px; 
+}
+
+.names {
+    display: flex;
+  list-style-type: none;
+  justify-content: center;
+  gap: 110px; 
+}
+
+.sql {
+    display: flex;
+  list-style-type: none;
+  justify-content: center;
+  gap: 100px; 
+  margin: auto;
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+}
+
+.exp {
+    align-items: center;
+    text-align: center;
+}
+
+.arbeit {
+    display: block;
+    margin: 0 auto;
+}
+
+.testing {
+    display: block;
+    margin: 0 auto;
+}
+
+.proj {
+    display: block;
+    margin: 0 auto;
+}
+
+.review {
+    display: block;
+    margin: 0 auto;
+}
+
+.end {
+    display: block;
+    margin: 0 auto;
+}
